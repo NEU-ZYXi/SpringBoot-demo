@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "user",
+      "type": "com.example.demo.model.UserProperties",
+      "sourceType": "com.example.demo.model.UserProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "user.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.demo.model.UserProperties"
+    },
+    {
+      "name": "user.nick",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.model.UserProperties"
+    }
+  ],
+  "hints": []
+}
